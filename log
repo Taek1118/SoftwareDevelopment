@@ -1,0 +1,18 @@
+[INFO|1:08:01]: Started loading resources. 
+[FINE|1:08:01]: Sprite Ship loaded. 
+[FINE|1:08:01]: Sprite ShipDestroyed loaded. 
+[FINE|1:08:01]: Sprite Bullet loaded. 
+[FINE|1:08:01]: Sprite EnemyBullet loaded. 
+[FINE|1:08:01]: Sprite EnemyShipA1 loaded. 
+[FINE|1:08:01]: Sprite EnemyShipA2 loaded. 
+[FINE|1:08:01]: Sprite EnemyShipB1 loaded. 
+[FINE|1:08:01]: Sprite EnemyShipB2 loaded. 
+[FINE|1:08:01]: Sprite EnemyShipC1 loaded. 
+[FINE|1:08:01]: Sprite EnemyShipC2 loaded. 
+[FINE|1:08:01]: Sprite EnemyShipSpecial loaded. 
+[FINE|1:08:01]: Sprite Explosion loaded. 
+[FINE|1:08:01]: Sprite Item loaded. 
+[FINE|1:08:01]: Sprite Bullet changed. 
+[FINE|1:08:01]: Sprite Ship changed. 
+[INFO|1:08:01]: Finished loading the sprites. 
+[WARNING|1:08:01]: Loading failed. 
